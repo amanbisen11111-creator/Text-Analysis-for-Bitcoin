@@ -3,7 +3,7 @@ Bitcoin News Sentiment & Topic Analysis
 
 This project analyzes Bitcoin-related news from multiple sources to understand trends, sentiments, and popular topics in the cryptocurrency space. The analysis includes data preprocessing, sentiment analysis, topic modeling, and visualization of insights.
 
-Project Overview
+1. Project Overview
 
 Data Collection:
 
@@ -33,7 +33,7 @@ Bigram & Trigram Analysis:
 
 Frequent two-word (bigrams) and three-word (trigrams) combinations were identified to understand popular phrases in Bitcoin news.
 
-Key Insights
+2. Key Insights
 
 Common topics include Bitcoin price predictions, investment trends, Coinbase updates, and regulatory news.
 
@@ -41,7 +41,7 @@ Sentiment distribution shows a mix of positive, neutral, and negative news, with
 
 Frequent phrases like "price prediction," "good investment," and "Kevin Durant" indicate trending stories and popular discussions.
 
-Tools & Libraries
+3. Tools & Libraries
 
 Python – main programming language
 
@@ -53,7 +53,7 @@ scikit-learn – TF-IDF vectorization & topic modeling (NMF)
 
 Matplotlib & WordCloud – visualization of topics and trends
 
-Output
+4. Output
 
 Preprocessed news data in Excel format
 
@@ -63,7 +63,7 @@ Topic modeling results with top words per topic
 
 Visualizations: word clouds and bar charts for topics
 
-Use Cases
+5. Use Cases
 
 Cryptocurrency market analysis
 
